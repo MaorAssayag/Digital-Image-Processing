@@ -28,7 +28,7 @@ implemented in MATLAB 2018R
 * Exercise 4 - Edges and Feature Descriptors
 * Exercise 5 - Geometric Transformations
 * Hackton
-* Final project 
+* Final project - https://github.com/MaorAssayag/ChessVision
 
 ## Authors
   *Maor Assayag*  
